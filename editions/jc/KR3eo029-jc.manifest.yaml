@@ -1,0 +1,74 @@
+canonical_identifier: bkk:krp/KR3eo029/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eo029/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 攝養枕中方
+  identifiers:
+    krp: KR3eo029
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04410
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo029.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eo029_000-jc.yaml, hash: 'sha256:27cd506b08db1ba758a7b43d23e827028a238f0cd37b3bf5b5b8bcc669c82556'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eo029_000-jc.markers.yaml, hash: 'sha256:b5ae959ab00db3b7de210b218b8024fe5bcd23135295d3c9c662b63dc50937a9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eo029_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 1805
+  label: 自慎
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo029_jc_000-d5.h1s1
+    span:
+    - body
+    - 1805
+    - 2138
+  label: 導引
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo029_jc_000-d6.h1s1
+    span:
+    - body
+    - 2138
+    - 2841
+  label: 行氣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo029_jc_000-d7.h1s1
+    span:
+    - body
+    - 2841
+    - 3066
+  label: 守一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo029_jc_000-d8.h1s1
+    span:
+    - body
+    - 3066
+    - 3861
+  label: 太清存神煉氣五時七候
+  type: section
+  level: 1
+hash: sha256:6b3681b93fcacbd831273c6a275820858b335c8e11941578e7a2f3387dd42958
