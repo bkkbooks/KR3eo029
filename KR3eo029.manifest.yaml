@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo029_000.yaml, hash: 'sha256:7d1bf1042675ef952e84a036cd71e8f798309589b315da449d9ff7f54145c4c2'}
+  - {seq: 0, filename: KR3eo029_000.yaml, hash: 'sha256:27cd506b08db1ba758a7b43d23e827028a238f0cd37b3bf5b5b8bcc669c82556'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo029_000.markers.yaml, hash: 'sha256:f83cc83cb8babd71b45eb7d734a9214fafb9d3225fab876cc0dbeb5afc693464'}
+  - {seq: 0, role: markers, filename: assets/KR3eo029_000.markers.yaml, hash: 'sha256:b7db78256355809e2cef5a3ae1018bc66ac0ccc3455f2dae7db221a3ae71485b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -71,7 +71,4 @@ table_of_contents:
   label: 太清存神煉氣五時七候
   type: section
   level: 1
-hash: sha256:960720b80e7fa82fa199bdb2a558b1f36278d37eee9ff6451c9ffa6e43f9c237
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6de540da7426285c51046a3e3b65b9a59bf5e8afb121982304d7fdf74567424c
