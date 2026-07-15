@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eo029/v1
 canonical_location: https://kanripo.org/bkk/KR3eo029/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 攝養枕中方
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo029_000.yaml, hash: 'sha256:27cd506b08db1ba758a7b43d23e827028a238f0cd37b3bf5b5b8bcc669c82556'}
+  - {seq: 0, filename: KR3eo029_000.yaml, hash: 'sha256:a890ea63af675b088c88ada98c4e8de82e3841f6aeca326aaf85a613e7c6d87b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo029_000.markers.yaml, hash: 'sha256:b7db78256355809e2cef5a3ae1018bc66ac0ccc3455f2dae7db221a3ae71485b'}
+  - {seq: 0, role: markers, filename: assets/KR3eo029_000.markers.yaml, hash: 'sha256:5b51ec48e09616bfb1fe2eefc29209f9bb85d4421fe3066969aec5d29612bb2f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -71,4 +71,7 @@ table_of_contents:
   label: 太清存神煉氣五時七候
   type: section
   level: 1
-hash: sha256:6de540da7426285c51046a3e3b65b9a59bf5e8afb121982304d7fdf74567424c
+hash: sha256:063a04769cd03629b45288be423e973760e39f065efcb9880fccaaab85bc167e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
